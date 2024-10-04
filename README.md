@@ -30,7 +30,7 @@ pip install colorama
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/NKormann/config_manager.git
+   git clone git@github.com:NKormann/config_manager.git
    cd config_manager
    ```
 
